@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1557284193 source:d:\codeblocks\practica_1_so\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+	<limits.h>
+
+1557902802 source:d:\codeblocks\practica_1_so\interfaz.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+	<limits.h>
+	<ctype.h>
+	<unistd.h>
+	<windows.h>
+	<ShellApi.h>
+
+1557683719 source:d:\codeblocks\practica_1_so\registros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+	<limits.h>
+
+1557907181 source:d:\codeblocks\practica_1_so\generador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+	<limits.h>
+
